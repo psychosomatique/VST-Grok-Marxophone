@@ -1,13 +1,12 @@
 # VST-Grok-Marxophone
 
-A virtual Marxophone plugin built with JUCE 8+. Hybrid sampling + Karplus-Strong physical modeling with authentic spring-loaded hammer bouncing tremolo.
+Virtual Marxophone plugin built with JUCE, developed with Grok.
+
+Hybrid sampled + physical modeling synthesis capturing the rare spring-loaded hammered zither.
 
 ## Features
-- Bright metallic shimmering tone
-- Expressive bouncing tremolo on held notes
-- High-quality multi-sampled hammer strikes
-- Modal body resonance
-- MPE support
-- VST3 / AU / Standalone
+- Authentic bouncing hammer tremolo
+- Multi-sampled strikes + Karplus-Strong modeling
+- Vintage UI with live hammer animation
 
-Built with ❤️ by Grok.
+Built for Ableton Live 11 and other DAWs.
